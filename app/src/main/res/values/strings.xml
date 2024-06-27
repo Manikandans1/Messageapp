@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Messageapp</string>
+    <string name="name1">squirrel</string>
+    <string name="hobbies1">squirrel is online</string>
+    <string name="name2">Tiger</string>
+    <string name="name3">Cat</string>
+    <string name="hobbies2">Tiger is online</string>
+    <string name="hobbies3">Cat is online</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+    <string name="about">About</string>
+</resources>
